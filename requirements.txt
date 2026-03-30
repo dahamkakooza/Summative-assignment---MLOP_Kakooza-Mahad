@@ -5,7 +5,7 @@ pydantic==2.5.0
 python-multipart==0.0.6
 
 # ML - Use CPU version for Render free tier
-tensorflow-cpu==2.13.0
+tensorflow-cpu==2.15.0
 scikit-learn==1.3.2
 xgboost==2.0.0
 joblib==1.3.2
