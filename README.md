@@ -8,7 +8,7 @@
 
 ## 📋 MLOps Assignment Submission
 
-**Student:** [Your Name]  
+**Student:** Kakooza Mahad 
 **Course:** MLOPs  
 **Due Date:** April 2, 2026  
 **Demo Video:**   
