@@ -11,9 +11,9 @@
 **Student:** [Your Name]  
 **Course:** MLOPs  
 **Due Date:** April 2, 2026  
-**Demo Video:** [https://youtu.be/your-video-id](https://youtu.be/your-video-id)  
-**Live Demo:** [https://agriprice-prophet.onrender.com](https://agriprice-prophet.onrender.com)  
-**GitHub:** [https://github.com/yourusername/agriprice-prophet](https://github.com/yourusername/agriprice-prophet)
+**Demo Video:**   
+**Live Demo:**  
+**GitHub:** 
 
 ## 📊 Project Overview
 
