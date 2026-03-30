@@ -15,6 +15,9 @@ import json
 import joblib
 import tensorflow as tf
 
+# For Render deployment - handle port
+PORT = int(os.environ.get("PORT", 8000))
+
 # Import local modules
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -419,4 +422,4 @@ def get_feature_explanations():
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=PORT)
