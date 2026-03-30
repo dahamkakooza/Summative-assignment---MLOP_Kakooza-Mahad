@@ -16,7 +16,7 @@
 
 The API is live at:  
 **[https://summative-assignment-mlop-kakooza-mahad.onrender.com](https://summative-assignment-mlop-kakooza-mahad.onrender.com)**
-**GitHub:** 
+**GitHub:** https://github.com/dahamkakooza/Summative-assignment---MLOP_Kakooza-Mahad.git
 
 ## 📊 Project Overview
 
