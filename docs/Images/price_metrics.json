@@ -1,0 +1,19 @@
+{
+  "mae": 4.686839745183909,
+  "mse": 36.27453894128771,
+  "rmse": 6.022834792793814,
+  "r2": 0.9943292132664138,
+  "explained_variance": 0.9943341879206873,
+  "mape": 1.628082459479051,
+  "best_params": {
+    "colsample_bytree": 0.8,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "n_estimators": 200,
+    "reg_alpha": 0,
+    "reg_lambda": 1,
+    "subsample": 0.8
+  },
+  "cv_avg_rmse": 144.39853595451382,
+  "cv_avg_r2": 0.7329976637109413
+}

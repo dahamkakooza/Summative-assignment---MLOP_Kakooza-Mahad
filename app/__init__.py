@@ -1,0 +1,3 @@
+"""
+AgriPrice Prophet Application Package
+"""
