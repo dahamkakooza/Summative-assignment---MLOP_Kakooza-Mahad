@@ -12,7 +12,10 @@
 **Course:** MLOPs  
 **Due Date:** April 2, 2026  
 **Demo Video:**   
-**Live Demo:**  
+🌐 Live Deployment
+
+The API is live at:  
+**[https://summative-assignment-mlop-kakooza-mahad.onrender.com](https://summative-assignment-mlop-kakooza-mahad.onrender.com)**
 **GitHub:** 
 
 ## 📊 Project Overview
