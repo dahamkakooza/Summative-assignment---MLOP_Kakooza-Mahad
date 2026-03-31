@@ -11,7 +11,7 @@
 **Student:** Kakooza Mahad 
 **Course:** MLOPs  
 **Due Date:** April 2, 2026  
-**Demo Video:**   
+**Demo Video:**   https://youtu.be/cC7fH3cBTIQ
 🌐 Live Deployment
 
 The API is live at:  
